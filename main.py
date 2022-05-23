@@ -10,7 +10,6 @@ from unicodedata import name
 import jwt
 import pandas as pd
 import psycopg2
-import pyodbc
 import uvicorn
 from dotenv import load_dotenv
 from fastapi import (
